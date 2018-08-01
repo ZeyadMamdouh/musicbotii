@@ -11,7 +11,7 @@ const fs = require("fs");
 const moment = require('moment');
 var Canvas = require('canvas');
 var jimp = require('jimp');
-var prefix = "1"
+var prefix = "#"
 
 
 
