@@ -23,7 +23,7 @@ var prefix = "#"
 client.on('ready', function(){
     client.user.setStatus("online");
     var ms = 100000 ;
-    var setGame = [`#mhelp`];
+    var setGame = [`#mhelp`،`Server One Fmaily`،`Galal bot];
     var i = -1;
     var j = 0;
     setInterval(function (){
